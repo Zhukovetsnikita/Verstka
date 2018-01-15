@@ -1,13 +1,14 @@
 h1,h2 {
     font-family: Arial, Helvetica, sans-serif;
 }
-p,aspan {
+body {
     font-size: 22px;
     line-height: 34px;
 }
-header {
+header,nav {
     background-color: #fd739c;
-    color:white
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
 }
     
     
